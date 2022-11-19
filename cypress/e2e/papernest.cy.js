@@ -188,6 +188,9 @@ describe('Test papernest user to select a random magazine and signup for it on P
       
     });
   })
+  
+  //OLD CODE to test only on PC
+  
   // it('Enters and see magazine list selects one then fills the forms on PC', () => {
   //   //intercept all api request for passthrough, so that we can use it to wait for api response
   //   cy.intercept({
