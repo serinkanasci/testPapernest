@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "cypress open",
+    "tests": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
+}
