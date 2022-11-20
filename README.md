@@ -25,6 +25,8 @@ Create a test of one of the user flow on the papernest application (A small flow
 - Validate
 - After validation, you should see the next “dialog window”
 
+Answer here : [https://github.com/serinkanasci/testPapernest/tree/main/cypress/e2e/papernest.cy.js](https://github.com/serinkanasci/testPapernest/tree/main/cypress/e2e/papernest.cy.js)
+
 # **2) Criterias** 
 
 
@@ -57,6 +59,9 @@ Developers, Product owner and QA discuss about the feature implementation. They 
 You are the QA Engineer present during the discussion, you are responsible of the quality of the web application.
 
 Please write the acceptance criterias of the features and eventually the questions the product owner or developers should answer about.
+
+Answer here : [https://github.com/serinkanasci/testPapernest/tree/main/Google_SSO_Criterias.pdf](https://github.com/serinkanasci/testPapernest/tree/main/Google_SSO_Criterias.pdf)
+
 ## API command used in the test
 
 #### Passthrough
